@@ -9,7 +9,7 @@
     <title><jsp:invoke fragment="title"/></title>
 
     <!-- Bootstrap Core CSS -->
-    <spring:url value="resources/css/bootstrap.css" var="bootstrap"/>
+    <spring:url value="/resources/css/bootstrap.css" var="bootstrap"/>
     <link href="${bootstrap}" rel="stylesheet" />
 
     <!-- Custom CSS -->
@@ -57,8 +57,9 @@
                         <li>
                             <a href="${file}">Загрузка файла PDF и Excel</a>
                         </li>
+                        <c:url value="/jdbc.html" var="jdbc"/>
                         <li>
-                            <a href="portfolio-2-col.html">Lesson 2</a>
+                            <a href="${jdbc}">JDBC в Spring: JDBCTemplate</a>
                         </li>
                         <li>
                             <a href="portfolio-3-col.html">Lesson 3</a>

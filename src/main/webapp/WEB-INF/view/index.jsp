@@ -44,10 +44,10 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tutorial<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li>
-                <a href="portfolio-1-col.html">Lesson 1</a>
+                <a href="file.html">Lesson 1 - FileUploader</a>
               </li>
               <li>
-                <a href="portfolio-2-col.html">Lesson 2</a>
+                <a href="jdbc.html">Lesson 2 - Spring JDBC</a>
               </li>
               <li>
                 <a href="portfolio-3-col.html">Lesson 3</a>
