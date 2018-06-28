@@ -2,11 +2,15 @@ ru/systemoteh/spring_angular_001/mvc/excelpdf/Cat.class
 ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample$2.class
 ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCController.class
 ru/systemoteh/spring_angular_001/mvc/bean/DBLog.class
+ru/systemoteh/spring_angular_001/mvc/email/EmailModel.class
+ru/systemoteh/spring_angular_001/mvc/email/EmailService$1.class
 ru/systemoteh/spring_angular_001/mvc/excelpdf/ExcelDocument.class
 ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample$1.class
 ru/systemoteh/spring_angular_001/mvc/excelpdf/ExcelPDFController.class
 ru/systemoteh/spring_angular_001/mvc/file/FileUploadController.class
+ru/systemoteh/spring_angular_001/mvc/email/EmailService.class
 ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample.class
+ru/systemoteh/spring_angular_001/mvc/email/EmailController.class
 ru/systemoteh/spring_angular_001/mvc/bean/User.class
 ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample$3.class
 ru/systemoteh/spring_angular_001/mvc/excelpdf/PDFDocument.class

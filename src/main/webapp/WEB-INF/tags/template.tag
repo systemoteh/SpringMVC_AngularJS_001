@@ -61,8 +61,9 @@
                         <li>
                             <a href="${jdbc}">JDBC в Spring: JDBCTemplate</a>
                         </li>
+                        <c:url value="/email.html" var="email"/>
                         <li>
-                            <a href="portfolio-3-col.html">Lesson 3</a>
+                             <a href="/email.html">Lesson 3 - Spring MVC и Email</a>
                         </li>
                         <li>
                             <a href="portfolio-4-col.html">Lesson 5</a>

@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e77f38-90fa-4d7c-baa6-6f415296e12d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/bean/DBLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dbschema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test-data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/util.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc/jdbc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/indexImage1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/util.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/util.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/application-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/application-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/email-templates/registered.vm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/email-templates/registered.vm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/file/file_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/file/file_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/file/file_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/file/file_jsp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/index_jsp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/view/index_jsp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/tag/webtemplate_tag.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/tag/webtemplate_tag.class" afterDir="false" />
@@ -38,35 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jdbc.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc/jdbc.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.tag" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="280" column="18" selection-start-line="279" selection-start-column="2" selection-end-line="284" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,19 +65,24 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/PDFDocument.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/ExcelPDFController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/ExcelDocument.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/util.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/dbschema.sql" />
         <option value="$PROJECT_DIR$/src/main/resources/test-data.sql" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/bean/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/bean/DBLog.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/application-context.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc/jdbc.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/application-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/util.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/email/email.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/email-templates/registered.vm" />
       </list>
     </option>
   </component>
@@ -136,6 +106,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +125,57 @@
               <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_angular_001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_angular_001" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_angular_001" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_angular_001" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
@@ -211,7 +234,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="tags" type="462c0819:PsiDirectoryNode" />
+              <item name="email-templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
@@ -221,6 +244,16 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVC_AngularJS_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringMVC_AngularJS_001" type="b2602c69:ProjectViewProjectNode" />
@@ -236,8 +269,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,8 +382,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1374" height="736" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -361,90 +391,35 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32905295" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.456" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19692533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19692533" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4012841" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4927769" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.tag" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.vm" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="78" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/excel-pdf-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/file/FileUploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/ExcelDocument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/PDFDocument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/ExcelPDFController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2070">
@@ -587,13 +562,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/temporary.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/excelpdf/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
@@ -605,13 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/file/FileUploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -636,20 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2875">
-          <caret line="125" column="21" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/util.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/dbschema.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207">
@@ -671,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
@@ -692,45 +632,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/images/Thumbs.db" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc/jdbc.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/application-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/images/Thumbs.db">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="280" column="18" selection-start-line="279" selection-start-column="2" selection-end-line="284" />
+        <state relative-caret-position="789">
+          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="138">
+          <caret line="61" column="52" selection-start-line="61" selection-start-column="51" selection-end-line="61" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc/jdbc.jsp">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        <state relative-caret-position="-708">
+          <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/email-templates/.registered.vm.kate-swp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/jdbc/JDBCController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/file/FileUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/mvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="58" column="70" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/util.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.4.RELEASE/spring-context-support-4.2.4.RELEASE.jar!/org/springframework/mail/javamail/JavaMailSender.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/applications/jetbrains-idea-ce.desktop">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/systemoteh/spring_angular_001/mvc/email/EmailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/email/email.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="119" column="16" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/email-templates/registered.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
